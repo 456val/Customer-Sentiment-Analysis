@@ -4,15 +4,9 @@
 Every review tells a story — this project explores how British Airways passengers truly feel about their flight experiences.  
 By applying **Natural Language Processing (NLP)** to passenger reviews, the project classifies sentiments, uncovers emotional patterns,  
 and identifies the **key causes of satisfaction and frustration**.
-
----
-
 ### 🎯 Purpose  
 To gain actionable insights from customer feedback and understand how service quality, staff performance, and flight disruptions  
 influence passenger emotions and satisfaction.
-
----
-
 ### 🧩 Objectives  
 - Analyze sentiment polarity (positive, neutral, negative) from passenger reviews.  
 - Examine how review length relates to emotional intensity.  
@@ -20,14 +14,12 @@ influence passenger emotions and satisfaction.
 - Explore how interruptions (delays/cancellations) impact passenger sentiment.  
 - Reveal the most common causes of delays and their emotional effects.  
 
----
-
 ## 📊 Insights & Findings
 
 ### 1. Sentiment Intensity Distribution  
+<img width="642" height="382" alt="image" src="https://github.com/user-attachments/assets/b05cb005-7627-4b70-b367-0cb25c488818" />
 
 
-<img width="589" height="372" alt="Sentiment Distribution" src="https://github.com/user-attachments/assets/710afa92-9f22-46ae-88c3-cbd0e5c98102" />
 
 
 The histogram shows that most sentiment scores are **clustered around 0**, forming a **bell-shaped curve**.  

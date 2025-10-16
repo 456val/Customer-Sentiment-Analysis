@@ -20,6 +20,7 @@ influence passenger emotions and satisfaction.
 <img width="642" height="382" alt="image" src="https://github.com/user-attachments/assets/b05cb005-7627-4b70-b367-0cb25c488818" />
 
 
+<img width="543" height="318" alt="Screenshot 2025-10-16 064538" src="https://github.com/user-attachments/assets/143474e8-a00d-43f6-aaeb-01e52d3c5f98" />
 
 
 The histogram shows that most sentiment scores are **clustered around 0**, forming a **bell-shaped curve**.  

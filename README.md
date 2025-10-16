@@ -22,7 +22,7 @@ The histogram shows that most sentiment scores are **clustered around 0**, formi
 This indicates that most reviews are **neutral or moderately emotional**, with relatively few extreme opinions.  
 The sentiment balance reflects **consistent but unremarkable performance** — passengers are neither overly delighted nor severely disappointed.  
 
-** Insight:**  
+#### Insight:
 British Airways receives **steady, moderate sentiment**, suggesting service consistency but limited “wow” experiences.  
 
 ### 2. Review Length vs Sentiment  
@@ -30,7 +30,7 @@ British Airways receives **steady, moderate sentiment**, suggesting service cons
 **Weak Positive** and **Weak Negative** reviews have the **highest average word counts (≈145–170 words)**.  
 Strongly emotional reviews (both positive and negative) are shorter, while neutral comments are concise and factual.  
 
-** Insight:**  
+####  Insight: 
 Moderate reviews contain **richer feedback and detailed context**, while extreme emotions drive **short, direct expressions**.  
 Airlines should focus on these moderate reviews for **actionable insights**.  
 
@@ -45,7 +45,7 @@ Frequent words: `delay`, `hour`, `seat`, `service`, `check`, `plane`, `Heathrow`
 Highlights **delays, seating discomfort, and check-in frustrations**.  
 Mentions of “Heathrow” and “voucher” indicate **location-specific or compensation-related issues**.  
 
-** Insight:**  
+#### Insight:
 Passengers praise **crew behavior, comfort, and punctuality**,  
 but express frustration with **delays, time loss, and inconsistent service**.  
 
@@ -55,7 +55,7 @@ Sentiments range from **negative (-0.32)** to **positive (0.35)**.
 Some passengers remain neutral-to-positive even after disruptions — especially when **service recovery** is handled well.  
 Strongly negative reactions occur when **communication or staff response** is poor.  
 
-** Insight:**  
+#### Insight:
 Customer satisfaction during disruptions depends more on **service handling** than on the **interruption itself**.  
 
 ### 5. Customer Service Mentions  
@@ -63,7 +63,7 @@ Passengers acknowledge **helpful and understanding staff** with positive sentime
 Poor or indifferent staff behavior drives **negative sentiment (≈ -0.32)**.  
 Professional service helps **neutralize frustration** from flight delays.  
 
-** Insight:**  
+#### Insight:
 Customer service is a **key emotional buffer** — it can transform a bad operational experience into a manageable one.  
 
 ### 6. Reviews with Specific Causes (Weather, Technical, Staffing)  
@@ -71,7 +71,7 @@ Sentiment scores remain **neutral to slightly positive (0.03–0.12)**.
 Passengers show understanding when issues stem from **weather or technical causes**.  
 However, dissatisfaction grows when **communication is unclear or slow**.  
 
-** Insight:**  
+####  Insight:
 Passengers forgive **uncontrollable issues (like weather)** but expect **transparency and timely updates** during disruptions.  
 
 ### 7. Common Causes of Delays & Cancellations  
@@ -86,7 +86,7 @@ Passengers forgive **uncontrollable issues (like weather)** but expect **transpa
 | Maintenance | 2 |
 | Technical Issues | 1 |
 
-** Insight:**  
+####  Insight:
 Most delays are caused by **crew availability**, followed by **weather and technical issues**.  
 Reducing crew-related delays and improving communication could significantly boost passenger sentiment.  
  

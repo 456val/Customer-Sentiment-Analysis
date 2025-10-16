@@ -27,7 +27,7 @@ influence passenger emotions and satisfaction.
 ### 1. Sentiment Intensity Distribution  
 
 
-<img width="589" height="372" alt="image" src="https://github.com/user-attachments/assets/710afa92-9f22-46ae-88c3-cbd0e5c98102" />
+<img width="589" height="372" alt="Sentiment Distribution" src="https://github.com/user-attachments/assets/710afa92-9f22-46ae-88c3-cbd0e5c98102" />
 
 
 The histogram shows that most sentiment scores are **clustered around 0**, forming a **bell-shaped curve**.  

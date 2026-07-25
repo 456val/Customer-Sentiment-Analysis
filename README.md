@@ -337,18 +337,6 @@ Run all notebook cells sequentially.
 
 ---
 
-## Future Improvements
-
-Potential enhancements include:
-
-- Train a machine learning sentiment classification model.
-- Compare TextBlob with VADER and transformer-based sentiment models.
-- Deploy the analysis using Streamlit.
-- Build an interactive Power BI dashboard.
-- Perform Named Entity Recognition (NER).
-- Analyze sentiment trends over time.
-
----
 
 ## Skills Demonstrated
 

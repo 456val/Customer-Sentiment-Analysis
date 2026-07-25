@@ -298,15 +298,13 @@ Improving these areas has the potential to enhance the overall customer experien
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 British-Airways-Passenger-Sentiment-Analysis/
-│
-├── data/
-├── notebooks/
-├── images/
-├── README.md
-├── requirements.txt
-└── british_airways.ipynb
+├── british_airways.ipynb
+└── README.md
+```
 ```
 
 ---
@@ -317,12 +315,6 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/British-Airways-Passenger-Sentiment-Analysis.git
-```
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
 ```
 
 ---
